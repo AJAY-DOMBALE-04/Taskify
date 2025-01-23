@@ -1,10 +1,7 @@
-NAME: AJAY BAPU DOMBALE
-COMPANY :CODTECH IT SOLUTIONS
-ID :CTO8DS9456
-DOMAIN : REACT.JS
-DURATION : OCTOBER TO NOVEMBER 2024
+
 
 Overview of the Todo App
+
 ![Capture](https://github.com/user-attachments/assets/a8de2f8a-62dd-479f-8f72-2266a104c98f)
 
 The Todo app is a simple yet effective task management tool that allows users to create, manage, and track their daily tasks. Built using React, it leverages component-based architecture and state management to provide a seamless user experience.
