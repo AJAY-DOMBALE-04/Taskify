@@ -1,6 +1,6 @@
 
 
-Overview of the Todo App
+Overview of the(Taskify) Todo App
 
 ![Capture](https://github.com/user-attachments/assets/a8de2f8a-62dd-479f-8f72-2266a104c98f)
 
