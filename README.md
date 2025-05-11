@@ -28,4 +28,4 @@ Responsive Design:
 The app is designed to be user-friendly and responsive, allowing users to manage their tasks effectively across different devices.
 Technologies Used:
 React: The core library for building user interfaces, enabling component-based architecture and state management.
-CSS: For styling the app, ensuring a clean and appealing user interface.
+CSS: For styling the app, ensuring a clean and appealing user interfaces.
